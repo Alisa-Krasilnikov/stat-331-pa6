@@ -1,6 +1,7 @@
 ---
 title: "Practice Activity 6"
 self-contained: true
+author: Alisa, Gabriella, Jake, Lex
 ---
 
 ```{r}
