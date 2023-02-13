@@ -1,6 +1,8 @@
 ---
 title: "Practice Activity 6"
+author: "Gabriella Richardson, Alisa Krasilnikov, Lex Schuster"
 self-contained: true
+author: Alisa, Gabriella, Jake, Lex
 ---
 
 ```{r}
