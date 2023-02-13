@@ -5,6 +5,10 @@ author: Alisa Krasilnikov, Gabriella Richardson, Jake Michael Aaknes, Lex Schust
 ---
 
 ```{r}
+<<<<<<< HEAD
 11*11
+=======
+13 * 13
+>>>>>>> 3d7ad547f1c2b23ead552aa8101d2f294b37e07e
 ```
 
