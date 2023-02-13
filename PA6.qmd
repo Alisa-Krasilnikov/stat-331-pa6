@@ -1,11 +1,10 @@
 ---
 title: "Practice Activity 6"
-author: "Gabriella Richardson, Alisa Krasilnikov, Lex Schuster"
 self-contained: true
-author: Alisa, Gabriella, Jake, Lex
+author: Alisa Krasilnikov, Gabriella Richardson, Jake Michael Aaknes, Lex Schuster
 ---
 
 ```{r}
-
+11*11
 ```
 
